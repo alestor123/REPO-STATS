@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/REPO-STATS/issues"
   },
-  "homepage": "https://github.com/alestor123/REPO-STATS#readme"
+  "homepage": "https://github.com/alestor123/REPO-STATS#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
